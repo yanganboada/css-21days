@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.row {
+  height: 100%;
+  background-color: #23424A;
+}
+
+.content {
+  width: 60vw;
+  padding: 10vh 10vw;
+
+}
+
+.content h1,
+.content p,
+.content button {
+  margin: 3vh;
+}
+
+.content p{
+  font-size: 4em;
+  font-weight: 300;
+}
+
+.content p{
+  font-size: .8rem;
+}
+
+.content button {
+  background-color: #38CFD9;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 1em 2em;
+  border: none;
+  border-radius: 31.5px;
+}
