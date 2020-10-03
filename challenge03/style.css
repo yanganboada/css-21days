@@ -16,7 +16,6 @@ body {
 .content {
   width: 60vw;
   padding: 10vh 10vw;
-
 }
 
 .content h1,
@@ -35,6 +34,7 @@ body {
 }
 
 .content button {
+  color: #072a2d;
   background-color: #38CFD9;
   font-weight: 700;
   text-transform: uppercase;
